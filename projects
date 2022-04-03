@@ -1,0 +1,92 @@
+  [
+     {
+        "id" : "1",
+        "name": "City Express",
+        "desc": "",
+        "github": "https://github.com/mayank712jindal/Octahacks-3.0",
+        "img": "cityexpress.png",
+        "website": "https://cityexpress007.000webhostapp.com/"
+    },
+    {
+        "id" : "2",
+        "name": "AmyCare",
+        "desc": "",
+        "github": "https://github.com/anirudh8303/CodeStomp",
+        "img": "amycare.png",
+        "website": ""
+    },
+    {
+        "id" : "3",
+        "name": "Netflyx",
+        "desc": "",
+        "github": "https://github.com/mayank712jindal/netflyx",
+        "img": "netflyx.png",
+        "website": "https://mayank712jindal.github.io/netflyx/"
+    },
+    {
+        "id" : "4",
+        "name": "ToDo-List",
+        "desc": "",
+        "github": "https://github.com/mayank712jindal/todoList",
+        "img": "todolist.png",
+        "website": "https://mayank712jindal.github.io/todoList/"
+    },
+    {
+        "id" : "5",
+        "name": "Desi Addicts",
+        "desc": "",
+        "github": "https://github.com/mayank712jindal/cbWebAssignments/tree/main/Assignment4",
+        "img": "desiaddicts.png",
+        "website": "https://desiaddicts.netlify.app/"
+    },
+    {
+        "id" : "6",
+        "name": "Job Registration",
+        "desc": "",
+        "github": "https://github.com/mayank712jindal/basicSql",
+        "img": "jobregistration.png",
+        "website": "http://applyforjob.epizy.com/"
+    },
+    {
+        "id" : "7",
+        "name": "The Dog Base",
+        "desc": "",
+        "github": "https://github.com/mayank712jindal/dogBase",
+        "img": "dogbase.png",
+        "website": "https://mayank712jindal.github.io/dogBase/"
+    },
+    {
+        "id" : "8",
+        "name": "Fashion Store",
+        "desc": "",
+        "github": "https://github.com/mayank712jindal/fashionstore",
+        "img": "fashionstore.png",
+        "website": "https://mayank712jindal.github.io/fashionstore/"
+    },
+    {
+        "id" : "9",
+        "name": "Portfolio",
+        "desc": "",
+        "github": "https://github.com/mayank712jindal/cbWebAssignments/tree/main/Assignment5",
+        "img": "portfolio.png",
+        "website": "https://portfolio-developer.netlify.app/"
+    },
+    {
+        "id" : "10",
+        "name": "ToDo-Check",
+        "desc": "",
+        "github": "https://github.com/mayank712jindal/cbWebAssignments/tree/main/Assignment6",
+        "img": "todocheck.png",
+        "website": "https://todo-check.netlify.app/"
+    },
+    {
+        "id" : "11",
+        "name": "Weather Report",
+        "desc": "",
+        "github": "https://github.com/mayank712jindal/cbWebAssignments/tree/main/Assignment7",
+        "img": "weather.png",
+        "website": "https://my-weather-report.netlify.app/"
+    }
+    
+]
+
